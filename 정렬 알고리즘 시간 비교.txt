@@ -1,4 +1,0 @@
-정렬 알고리즘 데이터 10000개 기준
-quick - 2ms
-merge - 2ms
-bubble - 101ms
