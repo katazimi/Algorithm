@@ -4,8 +4,6 @@ public class TilingAlg {
 	
 	static long[] arr = new long[100];
 	static long[] arr2 = new long[100];
-	static long[] arr3 = new long[100];
-	
 
 	public static void main(String[] args) {
 		System.out.println("타일링 문제 1");
